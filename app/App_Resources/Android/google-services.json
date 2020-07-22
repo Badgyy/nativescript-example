@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "197417246518",
+    "firebase_url": "https://wg-app-2aad2.firebaseio.com",
+    "project_id": "wg-app-2aad2",
+    "storage_bucket": "wg-app-2aad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197417246518:android:63baf4cc46acef717edd97",
+        "android_client_info": {
+          "package_name": "com.niclas.wgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197417246518-5rfulph8ffks4an6a7vu5gbnk2omf426.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.niclas.wgapp",
+            "certificate_hash": "58571c2410ffd4e517741cba2cec027b1e396315"
+          }
+        },
+        {
+          "client_id": "197417246518-j8ndn3rgn4ulg1vmknefpu5jl884dvj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.niclas.wgapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "197417246518-pb0igo3qpkjtqd3bpm1lmaoltoq5kfln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTFDG1ZJg4TQP7hUQuLicGBRJ-_8UyM2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197417246518-pb0igo3qpkjtqd3bpm1lmaoltoq5kfln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
